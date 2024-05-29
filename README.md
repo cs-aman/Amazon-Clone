@@ -25,10 +25,7 @@ amazon-clone/
 ```
 
 
-### Getting Started
-Explain how to get started with the project. This includes prerequisites and steps to run the project.
 
-```markdown
 ## Getting Started
 
 ### Prerequisites
@@ -49,7 +46,7 @@ To view this project, you only need a web browser.
 ### Screenshots
 Add screenshots for different sections to provide a better visual understanding. This section is optional but recommended for a more detailed presentation.
 
-```markdown
+
 ## Screenshots
 
 ### Navigation Bar
@@ -69,3 +66,7 @@ Add screenshots for different sections to provide a better visual understanding.
 - Amazon for their inspiring design.
 - [Font Awesome](https://fontawesome.com/) for the icons.
 - [CDN Fonts](https://fonts.cdnfonts.com/) for the Amazon Ember font.
+
+## Contact
+
+Created by [Your Name](https://github.com/your-username) - feel free to contact me!
