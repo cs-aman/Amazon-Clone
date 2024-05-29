@@ -20,10 +20,11 @@ This project is a clone of the Amazon India website, created using HTML and CSS.
 
 ```plaintext
 amazon-clone/
+├── Pictures
+├── Screenshot
 ├── index.html
 └── style.css
 ```
-
 
 
 ## Getting Started
@@ -36,30 +37,12 @@ To view this project, you only need a web browser.
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/cs-aman/amazon-clone.git
 
 2. Open the index.html file in your preferred web browser.
 
   open index.html
 
-
-### Screenshots
-Add screenshots for different sections to provide a better visual understanding. This section is optional but recommended for a more detailed presentation.
-
-
-## Screenshots
-
-### Navigation Bar
-![Navigation Bar](./screenshots/navbar.png)
-
-### Hero Section
-![Hero Section](./screenshots/hero-section.png)
-
-### Shop Section
-![Shop Section](./screenshots/shop-section.png)
-
-### Footer
-![Footer](./screenshots/footer.png)
 
 ## Acknowledgements
 
@@ -67,6 +50,15 @@ Add screenshots for different sections to provide a better visual understanding.
 - [Font Awesome](https://fontawesome.com/) for the icons.
 - [CDN Fonts](https://fonts.cdnfonts.com/) for the Amazon Ember font.
 
+## What's Impressive About This Project
+
+1. **Achieved in Just 8 Hours**: This entire project was completed with only 8 hours of lectures from the YouTube. The rapid development highlights the effectiveness of the tutorials and the efficiency of learning.
+
+2. **First-Time HTML & CSS Experience**: This was my first venture into HTML and CSS. Despite being a novice, I was able to create a functional and visually appealing web page, demonstrating my ability to grasp new concepts quickly and apply them effectively.
+
+3. **Exemplary Learning Skills**: This project is a testament to my fast learning abilities. It showcases how quickly I can adapt to new technologies and produce quality work, even when stepping into unfamiliar territory.
+
+
 ## Contact
 
-Created by [Your Name](https://github.com/your-username) - feel free to contact me!
+Created by Aman (https://github.com/cs-aman) - feel free to contact me!
