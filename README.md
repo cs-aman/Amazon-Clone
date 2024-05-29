@@ -22,7 +22,7 @@ This project is a clone of the Amazon India website, created using HTML and CSS.
 amazon-clone/
 ├── index.html
 └── style.css
-
+```
 
 
 ### Getting Started
