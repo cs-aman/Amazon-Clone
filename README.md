@@ -2,7 +2,7 @@
 
 This project is a clone of the Amazon India website, created using HTML and CSS. It demonstrates a basic static webpage mimicking the layout and design of Amazon's homepage.
 
-![Amazon Clone Screenshot](./screenshot.png)
+![Amazon Clone Screenshot](./Screenshot/Homepage.png/)
 
 ## Features
 
